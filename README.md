@@ -11,7 +11,7 @@ An all-in-one **Rental Property Management Excel Template** and free browser das
 Test the interactive web version instantly, or deploy the standalone, unlockable Microsoft Excel (.xlsx) workbook for recurring, offline portfolio management with a 30-day money-back guarantee.
 
 > 🌐 **Live Web Application**  
-> [Launch Free Interactive Browser Dashboard (No Installation Required)](https://hyvoid.github.io/Rental-Property-Operations-Vacancy-Intelligence-Excel-Toolkit/)
+> [Launch Free Interactive Browser Dashboard (No Installation Required)](https://hyvoid.github.io/rental-property-management-excel-template/)
 >
 > 📥 **Downloadable Excel File**  
 > [Get the Lifetime Rental Property Operations Excel Template (.xlsx)](https://www.theseusworkshop.com/l/gnhizz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=rental-property-vacancy)
