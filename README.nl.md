@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Rental Property Management Excel Template & Online Vacancy Tracker Dashboard
 
@@ -108,7 +108,7 @@ Zodra u uw operationele data hebt gevalideerd met de gratis browserversie:
 
 ---
 
-# Over
+## Over
 
 Ik bouw lichtgewicht, op Excel gebaseerde operationele beslissingstools voor situaties waarin er simpelweg te veel bewegende delen zijn om in uw hoofd te houden.
 
