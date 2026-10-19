@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب Excel لإدارة العقارات المؤجرة ولوحة متابعة الشغور عبر الإنترنت
 
@@ -108,7 +108,7 @@
 
 ---
 
-# حول
+## حول
 
 أبني أدوات قرار تشغيلية خفيفة قائمة على Excel لحالات تكون فيها الأجزاء المتحركة أكثر من أن تبقى في الذهن.
 
