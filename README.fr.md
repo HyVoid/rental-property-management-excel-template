@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Modèle Excel de Gestion Locative et Tableau de Bord de Suivi de la Vacance en Ligne
 
@@ -108,7 +108,7 @@ Une fois vos données opérationnelles validées à l'aide de l'édition navigat
 
 ---
 
-# À propos
+## À propos
 
 Je conçois des outils d'aide à la décision opérationnelle légers basés sur Excel, pour les situations où il y a tout simplement trop de pièces en mouvement pour tout garder en tête.
 
