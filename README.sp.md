@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla Excel de Gestión de Propiedades en Alquiler y Panel de Control de Vacancias en Línea
 
@@ -108,7 +108,7 @@ Una vez validados tus datos operativos con la edición gratuita del navegador:
 
 ---
 
-# Acerca De
+## Acerca De
 
 Construyo herramientas operativas de decisión basadas en Excel, ligeras, para situaciones donde simplemente hay demasiadas piezas en movimiento para mantener en la cabeza.
 
