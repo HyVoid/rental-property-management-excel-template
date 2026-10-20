@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Rental Property Management Excel Template & Automated Vacancy Tracker Dashboard
+<img width="1264" height="790" alt="image" src="https://github.com/user-attachments/assets/3d318752-9155-4d6b-968c-9da46dd8de87" />
+
 
 ![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Excel%20.xlsx-success)
