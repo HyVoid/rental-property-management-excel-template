@@ -1,6 +1,6 @@
 {
-  "name": "Rental Property Operations & Vacancy Intelligence Excel Toolkit",
-  "description": "An interactive, independent SaaS web application with excel workbook architecture for managing 32 high-end furnished properties.",
+  "name": "Theseus Workshop — rental-property-management-excel-template",
+  "description": "Theseus Workshop: rental-property-management-excel-template. Interactive SaaS web application with real-time Excel workbook architecture for rental property management, booking ledger, unit status engine, and vacancy intelligence.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

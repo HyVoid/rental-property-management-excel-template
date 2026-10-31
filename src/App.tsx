@@ -150,7 +150,7 @@ export default function App() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `furnish_saas_backup_${new Date().toISOString().split('T')[0]}.json`);
+    link.setAttribute('download', `rental-property-management-excel-template-backup-${new Date().toISOString().split('T')[0]}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -199,17 +199,23 @@ export default function App() {
       {/* SECTION 1: STICKY HORIZONTAL NAVIGATION BAR (56px) */}
       <header className="sticky top-0 z-40 h-[56px] bg-white border-b border-[#E8E8E6] card-shadow-sm px-6 flex items-center justify-between print:hidden">
         
-        {/* Brand logo & Outstanding Operations signature */}
-        <div className="flex items-center gap-3">
-          <div className="w-8 h-8 rounded-[8px] bg-[#051C2C] flex items-center justify-center font-bold text-white text-base font-serif tracking-tighter shadow-sm">
-            32
+        {/* Brand logo & application signature */}
+        <div className="flex items-center gap-3 shrink-0">
+          <div className="w-8 h-8 rounded-[8px] bg-[#051C2C] flex items-center justify-center font-bold text-white text-sm font-serif tracking-wider shadow-sm select-none">
+            TW
           </div>
-          <div>
-            <h1 className="text-sm font-serif font-bold text-[#051C2C] tracking-tight uppercase leading-none">
-              Rental Property Operations & Vacancy Intelligence Excel Toolkit
-            </h1>
-            <span className="text-[10px] text-[#888888] font-semibold tracking-wider font-sans-body uppercase">
-              Outstanding Operations SaaS
+          <div className="flex flex-col justify-center">
+            <div className="flex items-center gap-2">
+              <span className="text-[15px] font-serif font-bold text-[#051C2C] tracking-tight leading-none">
+                Theseus Workshop
+              </span>
+              <span className="hidden xl:inline text-[#888888] text-xs">/</span>
+              <span className="hidden xl:inline text-[11px] text-[#888888] font-mono tracking-tight leading-none">
+                rental-property-management-excel-template
+              </span>
+            </div>
+            <span className="xl:hidden text-[10px] text-[#888888] font-mono tracking-tight leading-tight mt-0.5">
+              rental-property-management-excel-template
             </span>
           </div>
         </div>
@@ -413,10 +419,16 @@ export default function App() {
 
       {/* FOOTER */}
       <footer className="bg-white border-t border-[#E8E8E6] py-5 px-6 text-center text-[11px] text-[#888888] mt-12 print:hidden">
-        <div className="max-w-[1400px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-2 px-4">
-          <span className="font-serif font-bold text-[#051C2C]">
-            Rental Property Operations & Vacancy Intelligence Excel Toolkit &copy; 2026. All rights reserved.
-          </span>
+        <div className="max-w-[1400px] mx-auto flex flex-col sm:flex-row items-center justify-between gap-3 px-4">
+          <div className="flex flex-col sm:flex-row items-center gap-1 sm:gap-2 text-center sm:text-left">
+            <span className="font-serif font-bold text-[#051C2C]">
+              Theseus Workshop
+            </span>
+            <span className="hidden sm:inline text-[#888888]">&bull;</span>
+            <span className="text-[11px] text-[#888888]">
+              All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
+            </span>
+          </div>
           <div className="flex items-center gap-4 text-xs font-medium text-[#888888]">
             <span>Automated Save Mode: <span className="text-[#00C853] font-bold">Enabled</span></span>
             <span>Platform: <span className="text-[#2251FF] font-bold">SaaS Core v1.0.0</span></span>
