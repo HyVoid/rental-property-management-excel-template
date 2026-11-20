@@ -35,6 +35,14 @@ Transform fragmented tenant reservation rows into automated operational intellig
 | **Manual Multi-Sheet Cross-Referencing & Data Entry** | **Single Source of Truth KPI Reporting** | Consolidates booking ledger exports from multiple Online Travel Agencies (OTAs) or channel managers into an automated occupancy KPI dashboard—no VLOOKUPs needed. |
 | **Scaling Pains with Static Landlord Spreadsheets** | **Dynamic Property Master Database Expansion** | Seamlessly add new doors, apartment buildings, or rental units without breaking pivot tables, redesigning layout dashboards, or copying nested Excel formulas. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1Uzag1g4XVpSojnfRgb5w0l9iZXM3njLx/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Who Needs This: Landlord Spreadsheets & Property Manager Templates by Job Role
